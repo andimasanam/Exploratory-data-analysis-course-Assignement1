@@ -7,7 +7,7 @@ This assignment uses data from the UC Irvine Machine Learning Repository, a popu
 
 Dataset: Electric power consumption [20Mb]
 
-##Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
+Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 
